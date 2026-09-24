@@ -108,7 +108,7 @@ The pipeline is designed to be **idempotent**:
 
 The project uses **six related tables** with primary keys, foreign keys and a many-to-many junction table.
 
-![Database schema](images/schema.png)
+![Database schema](images/table_schema.png)
 
 The schema separates relatively static information from frequently changing data:
 
