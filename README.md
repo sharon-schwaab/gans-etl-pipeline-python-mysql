@@ -323,6 +323,20 @@ This could eventually turn the ETL pipeline into the data foundation for a fleet
 
 Data Analytics · Python · SQL · Automation
 
-**GitHub:** [sharon-schwaab](https://github.com/sharon-schwaab)
-**Email:** [sharon.schwaab@outlook.de](mailto:sharon.schwaab@outlook.de)
-**LinkedIn:** [sharon-schwaab](https://www.linkedin.com/in/sharon-schwaab/)
+## 📬 Contact
+
+<p align="center">
+
+<a href="mailto:sharon.schwaab@outlook.de">
+  <img src="https://img.shields.io/badge/Email-sharon.schwaab%40outlook.de-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="Email">
+</a>
+
+<a href="https://www.linkedin.com/in/sharon-schwaab/">
+  <img src="https://img.shields.io/badge/LinkedIn-Sharon%20Schwaab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/sharon-schwaab">
+  <img src="https://img.shields.io/badge/GitHub-sharon--schwaab-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+</p>
