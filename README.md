@@ -1,5 +1,12 @@
 # 🛴 Gans E-Scooter ETL Pipeline
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-43B02A?style=flat)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
 **Automated data pipeline combining city, weather and flight data using Python, REST APIs and MySQL.**
 
 Gans is an e-scooter rental startup that needs to decide **where and when to position its fleet**.
